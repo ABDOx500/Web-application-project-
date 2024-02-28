@@ -18,10 +18,6 @@ Rabat Explorer aims to revolutionize the way tourists engage with the city of Ra
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js, MongoDB
-- **Augmented Reality**: Unity, ARKit, ARCore
-- **Maps Integration**: Google Maps API
-- **Authentication**: JSON Web Tokens (JWT)
-- **Hosting**: Amazon Web Services (AWS)
 
 ## Getting Started
 To get started with Rabat Explorer, follow these steps:
