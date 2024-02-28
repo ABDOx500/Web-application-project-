@@ -41,4 +41,4 @@ We welcome contributions from the community to enhance Rabat Explorer. If you'd 
 
 
 ## Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [contact@rabatexplorer.com](mailto:contact@rabatexplorer.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [DevSquad@gmail.com](mailto:DevSquad@gmail.com).
